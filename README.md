@@ -14,7 +14,6 @@
 </p>
 
 ## ⭐️ GitHub Stats
-
 <p align="center">
   <a href="https://github.com/hplove70">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hplove70&theme=buefy&count_private=true&show_icons=true&include_all_commits=true"/>
