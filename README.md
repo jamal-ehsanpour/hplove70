@@ -2,8 +2,9 @@
 
 
 ## About me:
-- 🔭 I’m an Environmental Engineering Student and currently working on Saferplace project relating the Python scripts and GIS.
-- 🌱 I’m currently learning Python.
+- 🔭 A highly motivated and passionate person familiar with extracting, cleaning, transforming, and analyzing different datasets. Possesses strong analytical skills, excellent problem-solving abilities, and a deep understanding of database technologies and Machine Learning models.
+Experienced working with different real-world datasets, Python libraries,Machine Learning models,and SQL databases.
+- 🌱 I’m currently learning different AWS services.
 - 🤔 I’m looking for help with Geospetial data subjects and related libraries.
 - 
 ## 📫 How to reach me:
