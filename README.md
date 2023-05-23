@@ -6,7 +6,7 @@
 Experienced working with different real-world datasets, Python libraries,Machine Learning models,and SQL databases.
 - 🌱 I’m currently learning different AWS services.
 - 🤔 I’m looking for help with Geospetial data subjects and related libraries.
-- 
+
 ## 📫 How to reach me:
 <p align="center">
   <a href="https://www.linkedin.com/in/jamal-ehsanpour-239563194/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
